@@ -30,7 +30,7 @@ A web-based compiler that translates Tamil keywords to Python and executes the c
 
 ### Hello World
 ```
-"Vanakam Kagam" sollu
+"Vanakam" sollu
 ```
 
 ### Conditional Logic
