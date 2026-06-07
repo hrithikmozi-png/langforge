@@ -37,9 +37,9 @@ A web-based compiler that translates Tamil keywords to Python and executes the c
 ```
 age = 20
 age >= 18 irundhal:
-    "Aandu periya vayasu" sollu
+    "Elder" sollu
 illana:
-    "Sirumai vayasu" sollu
+    "Younger" sollu
 ```
 
 ### Loop Example
